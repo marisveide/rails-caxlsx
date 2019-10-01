@@ -1,24 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project reproduces the issue that after installing the `caxlsx` gem, the `Axlsx` package is not found.
 
-Things you may want to cover:
+This is demonstrated in this test: `./test/system/caxlsx_test.rb`.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
